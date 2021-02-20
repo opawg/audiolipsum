@@ -1,5 +1,4 @@
-Audio Lipsum
-============
+# Audio Lipsum
 
 Generates MP3 files with random tones and ID3 tags containing lorem ipsum.
 
@@ -17,6 +16,6 @@ pip install opawg-audiolipsum
 
 Does the code actually work?
 
-```
+```sh
 pytest --cov tests
 ```
